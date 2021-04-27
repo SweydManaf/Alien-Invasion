@@ -1,21 +1,56 @@
-# Alien-Invasion
-### Jogo feito com a biblioteca Pygame do Python
- Projeto desenvolvido no Curso Intensivo de Python de Eric Matthes
+# Alien Invasion
 
+O Alien Invasin é um jogo que permite que os jogadores sintam a experiência de eliminar alienigenas.
 
+Projeto desenvolvido no pdf `Curso Intensivo de Python` de `Eric Mathes`.
 
-<a href="https://www.pygame.org/docs/">Documentção do Pygame</a>
-<p>Livro de refêrencia: Curso Intensivo de Python: Uma introdução prática e baseada em projectos à programação</p>
+## Pré-requisitos
 
-![preview-alien-invasion](https://user-images.githubusercontent.com/76517786/114452008-3c30bb80-9bd8-11eb-905e-9603208db507.png)
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+* Você instalou python 3.
+* Você tem uma máquina Windows/Linux/Mac.
+* Você leu <a href="https://www.pygame.org/docs/">Documentção do Pygame</a>.
 
+## Instalando Pygame
 
-## Como jogar?
+Para instalar o Pygame, siga estas etapas:
 
-1. Instale a biblioteca pygame na sua máquina:
+Linux e macOS:
+```
+pip3 install pygame
+```
 
+Windows:
 ```
 pip install pygame
 ```
+## Jogando Alien Invasion
 
-2. No terminal ou no prompt do windows dentro da pasta raiz digite `python3 alien-invasion.pyw` ou `python alien-invasion.pyw`
+Para executar o jogo, siga estas etapas:
+Linux e macOS:
+```
+python3 alien_invasion.pyw
+```
+
+Windows:
+```
+python alien_invasion.pyw
+```
+
+Na Invasão Alienígena, o jogador controla uma espaçonave que aparece na parte inferior central da tela. O jogador pode mover a espaçonave para a direita e para a esquerda usando as teclas de direção e atirar usando a barra de espaço. 
+
+Quando o jogo começa, uma frota de alienígenas enche o céu e se desloca na tela para os lados e para baixo. O jogador atira nos alienígenas e os destrói. Se o jogador atingir todos os alienígenas, uma nova frota, que se moverá mais rapidamente que a frota anterior, aparecerá. Se algum alienígena atingir a espaçonave do jogador ou alcançar a parte inferior da tela, o jogador perderá uma nave. Se o jogador perder três espaçonaves, o jogo terminará.
+
+
+## Colaboradores
+
+Obrigado às seguintes pessoas que contribuíram para este projeto:
+
+* [@sweydabdul] (https://github.com/sweydabdul) 📖
+
+## Contato
+
+Se quiser entrar em contato comigo, você pode entrar em contato comigo em `abdulsweyd@gmail.com`.
+
+## Licença
+Este projeto usa a seguinte licença: [MIT License](https://opensource.org/licenses/MIT).
