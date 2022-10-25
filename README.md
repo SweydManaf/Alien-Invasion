@@ -15,15 +15,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o Pygame, siga estas etapas:
 
-Linux e macOS:
+No terminal ou cmd digite:
 ```
-pip3 install pygame
+pip install -r requirements.txt
 ```
 
-Windows:
-```
-pip install pygame
-```
 ## Jogando Alien Invasion
 
 Para executar o jogo, siga estas etapas:
