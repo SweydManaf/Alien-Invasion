@@ -46,7 +46,7 @@ Quando o jogo começa, uma frota de alienígenas enche o céu e se desloca na te
 
 Obrigado às seguintes pessoas que contribuíram para este projeto:
 
-* [@sweydabdul] (https://github.com/sweydabdul) 📖
+* [@sweydmanaf] (https://github.com/sweydmanaf) 📖
 
 ## Contato
 
